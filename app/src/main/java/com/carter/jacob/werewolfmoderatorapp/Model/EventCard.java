@@ -10,12 +10,14 @@ public class EventCard
 	private String name;
 	private String description;
 	private boolean active;
+	private boolean customCard;
 	
-	EventCard(int id, String name, String description)
+	EventCard(int id, String name, String description, boolean customCard)
 	{
 		this.id = id;
 		this.name = name;
 		this.description = description;
+		this.customCard = customCard;
 		active = true;
 	}
 	
