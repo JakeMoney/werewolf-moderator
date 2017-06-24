@@ -37,5 +37,8 @@ public class EventCard
 		return name;
 	}
 	
-	
+	public String getDescription()
+	{
+		return description;
+	}
 }

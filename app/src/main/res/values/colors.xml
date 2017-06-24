@@ -8,5 +8,6 @@
     <color name="purpleMain">#423f6e</color>
     <color name="purpleMainDarker">#383459</color>
     <color name="gold">#ffd11f</color>
-
+    <color name="white">#ffffff</color>
+    <color name="lightBlue">#7DBDBE</color>
 </resources>

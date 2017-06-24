@@ -6,4 +6,5 @@ package com.carter.jacob.werewolfmoderatorapp;
 
 public interface MainActivityInterface
 {
+
 }
